@@ -1,0 +1,78 @@
+# Introduction to full stack software development
+1. ## Introduction
+2. ## Version control
+    - ### Introduction
+    - ### GitHub
+    - ### Introduction to Git and Git commands
+    - ### Git bash terminal
+    - ### GitHub Actions
+3. ## Environments and programming languages
+    - ### Programming languages
+    - ### Programming environments
+        - #### NodeJs
+4. ## Programming tools
+    - ### IDE
+        - #### Visual Studio Code
+        - #### Visual Studio
+    - ### Postman
+    - ### MSSQL
+    - ### SSMS
+    - ### Docker
+    - ### Git
+    - ### IDE
+    - ### IDE
+    - ### IDE
+5. ## Introduction to HTML and CSS
+    - ### HTML with CSS scripts
+    - ### CSS responsiveness
+    - ### Browser and browser tools
+    - ### Debugging html using browser tools
+6. ## Introduction to JavaScript and TypeScript
+    - ### EcmaScript
+    - ### DOM events
+    - ### Local storage
+7. ## Frontend development
+    - ### Introduction to HTML and CSS
+    - ### Introduction to Frontend frameworks and libraries
+    - ### Introduction to React.Js
+8. ## Api calls and consumption
+    - ### Introduction
+    - ### Api methods
+    - ### Introduction to Postman
+    - ### Introduction to api extension tools
+        - ### Thunder Client
+        - ### Rest Client
+9. ## SQL and Database
+    - ### Introduction
+    - ### MSSQL database
+    - ### SQL basics
+    - ### Advanced SQL
+10. ## Backend Development
+    - ### Introduction
+    - ### Introduction to Backend frameworks and libraries
+    - ### Introduction to Express.Js
+        - #### Creating and setting up an expressJs project
+            - ##### package.json
+        - #### Api components
+            - ##### Controllers
+            - ##### Validators
+            - ##### Middlewares
+            - ##### Routes
+            - ##### Helpers
+            - ##### Utilities
+            - ##### Services
+        - #### Creating api endpoints
+        - #### Serverless apis development
+        - #### Connecting to sql server
+        - #### Creating api endpoints
+        - #### Schedule tasks
+        - #### Sending emails
+            - ##### HTML templates
+        - #### Performance optimization
+11. ## Deployment and hosting
+    - ### Deployment platforms
+    - ### Continous integration/ continous development (CI/CD)
+    - ### Cloud platforms
+        - #### AWS Cloud Services
+        - #### Microsoft Azure
+        - #### Google Cloud Services
